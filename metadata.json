@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chess",
+  "description": "A beautiful, responsive, and animated chess game built with React, TypeScript, and Tailwind CSS. The game logic is powered by chess.js, and animations are handled by Framer Motion.",
+  "requestFramePermissions": []
+}
